@@ -239,5 +239,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Nicks
-- Musa Parsanka
+- Ian Alindi
+- Keith Chad
